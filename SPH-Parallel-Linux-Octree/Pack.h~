@@ -1,9 +1,0 @@
-#pragma once
-#include <vector>
-#include "Particle.h"
-#include "Octree.h"
-using namespace std;
-struct Pack{
-  vector<int>* morton;
-  Octree *obj;
-};
