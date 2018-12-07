@@ -1,4 +1,6 @@
 # Parallel-SPH
+Update: Outdated, a better version will be committed soon. The algorithms used are entirely different and one step towards a real-time simulation :)
+
 A parallel implementation of Smooth Particle Hydrodynamics.
 The project contains the code for the offline simulation and the code for a basic DirectX Renderer. The renderer is Windows only.
 To run the Demo, press on the executable: You move with the WASD keys and rotate using the arrow keys.
